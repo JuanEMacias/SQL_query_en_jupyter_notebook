@@ -18,7 +18,7 @@ El objetivo es utilizar los datos para obtener información relevante sobre los 
 ## Tecnologías
 ***
 Los recursos utilizados en este proyecto son:
-* HerramiEntas de Python 
+* Herramientas de Python 
 	* SQL Alchemy
 
 * Jupyter Notebooks
